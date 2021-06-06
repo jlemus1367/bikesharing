@@ -6,4 +6,39 @@ In the following project, we analyzed Citi Bike data to determine the viability 
 - Python 3.7.6
 ## Results
 [link to dashboard](https://public.tableau.com/app/profile/josue.lemus/viz/CitiBikeChallenge_16228456749710/Story1)
+#### Viz 1
+<p align="center">
+  <img src = "viz/viz1.png"  width=500>
+</p>
+
+#### Viz 2
+<p align="center">
+  <img src = "viz/viz2.png"  width=500>
+</p>
+
+#### Viz 3
+<p align="center">
+  <img src = "viz/viz3.png"  width=500>
+</p>
+
+#### Viz 4
+<p align="center">
+  <img src = "viz/viz4.png"  width=500>
+</p>
+
+#### Viz 5
+<p align="center">
+  <img src = "viz/viz5.png"  width=500>
+</p>
+
+#### Viz 6
+<p align="center">
+  <img src = "viz/viz6.png"  width=500>
+</p>
+
+#### Viz 7
+<p align="center">
+  <img src = "viz/viz7.png"  width=500>
+</p>
+
 ## Summary
