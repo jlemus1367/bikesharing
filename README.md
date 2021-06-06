@@ -5,5 +5,5 @@ In the following project, we analyzed Citi Bike data to determine the viability 
 - Tableau Public 2021.1
 - Python 3.7.6
 ## Results
-
+[link to dashboard](https://public.tableau.com/app/profile/josue.lemus/viz/CitiBikeChallenge_16228456749710/Story1)
 ## Summary
