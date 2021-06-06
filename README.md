@@ -6,39 +6,53 @@ In the following project, we analyzed Citi Bike data to determine the viability 
 - Python 3.7.6
 ## Results
 [link to dashboard](https://public.tableau.com/app/profile/josue.lemus/viz/CitiBikeChallenge_16228456749710/Story1)
-#### Viz 1
+### Viz 1
 <p align="center">
   <img src = "viz/viz1.png"  width=500>
 </p>
 
-#### Viz 2
+Our first visualization displays the top starting and ending locations for the bike trip data. Manhattan has to most activity out of all the boroughs of New York City. The records are the most concentrated in mid and lower Manhattan. Further analysis indicates that the Pershing Square North docking station is the most popular destination for starting and ending a trip. To the southwest, we have Brooklyn, which has a considerable amount of activity as well. Docking station records appear to taper off in Queens, and there are virtually no records in the Bronx or Staten Island. 
+
+### Viz 2
 <p align="center">
   <img src = "viz/viz2.png"  width=500>
 </p>
 
-#### Viz 3
+If we look at the most popular hours to initialize a trip, we can conclude that the most popular hours to start a journey are around 8 am and 5 pm.  
+
+### Viz 3
 <p align="center">
   <img src = "viz/viz3.png"  width=500>
 </p>
 
-#### Viz 4
+We can dissect the most popular hours to start a trip even further by creating a stacked bar chart. Those who use Citi Bike throughout the day are more likely to be either male or subscriber.
+
+### Viz 4
 <p align="center">
   <img src = "viz/viz4.png"  width=500>
 </p>
 
-#### Viz 5
+Knowing that the most popular hours to start a trip are around 8 am and 5 pm, we created a visualization that shows which days of the week are getting the most activity. Weekday mornings and evenings have the most bike records. It appears that many people are using the Citi Bikes for their daily commutes to work since the hours between 8 am - 5 pm have considerably less activity.
+
+### Viz 5
 <p align="center">
   <img src = "viz/viz5.png"  width=500>
 </p>
 
-#### Viz 6
+Using the visualization that shows the most active times for each day of the week, we created a visualization that shows how gender plays a role. For example, men appear to use Citi Bikes heavily on Thursday around 6 pm.
+
+### Viz 6
 <p align="center">
   <img src = "viz/viz6.png"  width=500>
 </p>
 
-#### Viz 7
+The nature of bike trips appears to be quick for Citi Bike users. The majority of trips last around 5 minutes, regardless of gender. Furthermore, Citi Bike usage drops below 1000 records after one hour. 
+
+### Viz 7
 <p align="center">
   <img src = "viz/viz7.png"  width=500>
 </p>
+
+The visualization above summarizes our findings of the nature of trips and the type of user. Male subscribers appear to be the most active users of Citi Bikes. 
 
 ## Summary
